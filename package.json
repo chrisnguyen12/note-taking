@@ -14,11 +14,11 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/chrisnguyen12/note-taking"
+        "url": "https://github.com/chrisnguyen12/note-taking"
     },
     "keywords": [],
     "bugs": {
-        "url": "https://github.com/chrisnguyen12/note-taking/issues/1"
+        "url": "https://github.com/chrisnguyen12/note-taking/issues/"
     },
     "homepage": "https://github.com/chrisnguyen12/note-taking#readme"
 }
